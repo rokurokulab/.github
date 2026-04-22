@@ -1,5 +1,5 @@
 # rokurokulab
 
-Cross-tool AI coding agent infrastructure.
+AI agents, side projects, and knowledge bases.
 
-> WIP — profile under construction.
+> WIP — more landing as they're built.
